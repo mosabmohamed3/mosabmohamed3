@@ -45,14 +45,6 @@ Even though my company projects are private, here are some highlights of my work
 
 ---
 
-## 📊 GitHub Stats  
-![Mosab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosabmohamed3&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosabmohamed3&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosabmohamed3&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=mosabmohamed3&color=blue)  
-
----
-
 ## 📫 Let's Connect!  
 💼 **Open to collaborations and learning new technologies!** Feel free to reach out:  
 
